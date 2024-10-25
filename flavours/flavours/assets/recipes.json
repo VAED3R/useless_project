@@ -1,15 +1,18 @@
 {
-    "recipes": [
-      {
-        "name": "Pasta Salad",
-        "ingredients": ["pasta", "tomato", "olive oil", "feta cheese", "cucumber"],
-        "instructions": "Boil pasta, mix with other ingredients, season, and serve cold."
-      },
-      {
-        "name": "Tomato Soup",
-        "ingredients": ["tomato", "onion", "garlic", "vegetable broth"],
-        "instructions": "Cook onions and garlic, add tomatoes and broth, simmer, and blend."
-      }
-    ]
-  }
-  
+  "recipes": [
+    {
+      "name": "Pasta Salad",
+      "ingredients": ["pasta", "tomato", "olive oil", "feta cheese", "cucumber"],
+      "instructions": "Boil pasta, mix with other ingredients, season, and serve cold.",
+      "cookingTime": 15,
+      "taste": "fresh"
+    },
+    {
+      "name": "Tomato Soup",
+      "ingredients": ["tomato", "onion", "garlic", "vegetable broth"],
+      "instructions": "Cook onions and garlic, add tomatoes and broth, simmer, and blend.",
+      "cookingTime": 25,
+      "taste": "savory"
+    }
+  ]
+}
