@@ -1,10 +1,10 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+# [Flavours] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Void Main]
 
 
 ### Team Members
@@ -13,7 +13,7 @@
 - Member 3: [Akshay Kumar M S] - [SCMS]
 
 ### Project Description
-[2-3 lines about what your project does]
+[Experience restaurant-quality dishes at home with our Gourmet Recipe App. Enjoy expertly crafted recipes inspired by world-class chefs, with easy-to-follow steps and pro tips that bring fine dining flavors right to your kitchen.]
 
 ### The Problem (that doesn't exist)
 [What ridiculous problem are you solving?]
