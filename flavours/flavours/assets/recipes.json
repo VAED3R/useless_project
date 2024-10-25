@@ -1,18 +1,75 @@
 {
-  "recipes": [
-    {
-      "name": "Pasta Salad",
-      "ingredients": ["pasta", "tomato", "olive oil", "feta cheese", "cucumber"],
-      "instructions": "Boil pasta, mix with other ingredients, season, and serve cold.",
-      "cookingTime": 15,
-      "taste": "fresh"
-    },
-    {
-      "name": "Tomato Soup",
-      "ingredients": ["tomato", "onion", "garlic", "vegetable broth"],
-      "instructions": "Cook onions and garlic, add tomatoes and broth, simmer, and blend.",
-      "cookingTime": 25,
-      "taste": "savory"
-    }
-  ]
+"recipes": [
+  {
+    "name": "Pasta Salad",
+    "ingredients": ["pasta", "tomato", "olive oil", "feta cheese", "cucumber"],
+    "instructions": "Boil pasta, mix with other ingredients, season, and serve cold.",
+    "cookingTime": 15,
+    "taste": "fresh"
+  },
+  {
+    "name": "Tomato Soup",
+    "ingredients": ["tomato", "onion", "garlic", "vegetable broth"],
+    "instructions": "Cook onions and garlic, add tomatoes and broth, simmer, and blend.",
+    "cookingTime": 25,
+    "taste": "savory"
+  },
+  {
+    "name": "Chicken Stir Fry",
+    "ingredients": ["chicken breast", "bell pepper", "broccoli", "soy sauce", "ginger"],
+    "instructions": "Stir-fry chicken until cooked, add vegetables, and stir in soy sauce and ginger.",
+    "cookingTime": 20,
+    "taste": "savory"
+  },
+  {
+    "name": "Vegetable Curry",
+    "ingredients": ["mixed vegetables", "coconut milk", "curry powder", "onion", "garlic"],
+    "instructions": "Sauté onions and garlic, add vegetables and curry powder, stir in coconut milk, and simmer.",
+    "cookingTime": 30,
+    "taste": "spicy"
+  },
+  {
+    "name": "Quinoa Salad",
+    "ingredients": ["quinoa", "black beans", "corn", "lime juice", "cilantro"],
+    "instructions": "Cook quinoa, mix with beans, corn, lime juice, and cilantro. Serve chilled.",
+    "cookingTime": 20,
+    "taste": "zesty"
+  },
+  {
+    "name": "Oven-Baked Salmon",
+    "ingredients": ["salmon fillet", "lemon", "garlic", "olive oil", "rosemary"],
+    "instructions": "Preheat oven, place salmon on a baking sheet, season with lemon, garlic, olive oil, and rosemary. Bake until cooked through.",
+    "cookingTime": 20,
+    "taste": "delicate"
+  },
+  {
+    "name": "Caprese Salad",
+    "ingredients": ["mozzarella", "tomato", "basil", "olive oil", "balsamic vinegar"],
+    "instructions": "Layer mozzarella and tomato slices, add basil, drizzle with olive oil and balsamic vinegar.",
+    "cookingTime": 10,
+    "taste": "fresh"
+  },
+  {
+    "name": "Banana Smoothie",
+    "ingredients": ["banana", "milk", "honey", "yogurt"],
+    "instructions": "Blend banana, milk, honey, and yogurt until smooth. Serve immediately.",
+    "cookingTime": 5,
+    "taste": "sweet"
+  },
+  {
+    "name": "Beef Tacos",
+    "ingredients": ["ground beef", "taco shells", "lettuce", "cheese", "salsa"],
+    "instructions": "Cook beef, fill taco shells with beef, lettuce, cheese, and top with salsa.",
+    "cookingTime": 30,
+    "taste": "savory"
+  },
+  {
+    "name": "Chocolate Chip Cookies",
+    "ingredients": ["flour", "sugar", "butter", "chocolate chips", "egg"],
+    "instructions": "Mix all ingredients, drop spoonfuls onto a baking sheet, and bake until golden.",
+    "cookingTime": 15,
+    "taste": "sweet"
+  }
+]
+
 }
